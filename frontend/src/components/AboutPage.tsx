@@ -69,14 +69,14 @@ const AboutPage: React.FC = () => (
           <div className="group relative overflow-hidden rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-[1.02] border border-[#562c81]/20">
             <img
               src="/pics/Group Photo 1-min.JPG"
-              alt="Group Photo 1"
+              alt="Team gathering 1"
               className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
             />
           </div>
           <div className="group relative overflow-hidden rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-[1.02] border border-[#562c81]/20">
             <img
               src="/pics/Group Photo 2-min.JPG"
-              alt="Group Photo 2"
+              alt="Team gathering 2"
               className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
             />
           </div>
