@@ -1,6 +1,5 @@
 import React from 'react';
 import GoldSponsors from './GoldSponsors';
-import ThreeDModelViewer from './ThreeDModelViewer';
 
 const HomePage: React.FC = () => (
   <div className="text-[#562c81] bg-[#e7e7e7] min-h-screen font-roboto">
@@ -10,9 +9,6 @@ const HomePage: React.FC = () => (
       <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#562c81]/5 to-[#562c81]/10 z-0"></div>
 
       {/* 3D Model Viewer Background */}
-      <div className="absolute inset-0">
-        <ThreeDModelViewer />
-      </div>
 
       {/* Content */}
       <div className="relative z-10 px-4">
