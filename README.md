@@ -1,2 +1,2 @@
-# Neurotech UofT
-Website for Neurotech UofT
+# NeurotechUofT
+Website for NeurotechUofT
